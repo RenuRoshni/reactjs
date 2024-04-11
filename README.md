@@ -28,6 +28,6 @@ A React-based e-commerce application for browsing products, adding them to a car
 
 ## Demo
 
-You can try out the demo of this Todo App [here](https://rrrnxttrendz.ccbp.tech/).
+You can try out the demo of this E-commerce App [here](https://rrrnxttrendz.ccbp.tech/).
 
 
